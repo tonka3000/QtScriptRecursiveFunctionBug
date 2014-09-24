@@ -33,4 +33,4 @@ Different js-file
 * fine.js  => this file works as expected
 
 ## Special thanks
-...to **wysota** and **anda_skoa** from [www.qtcentre.org](www.qtcentre.org) which helped me testing on other platforms and generally for there help.
+...to **wysota** and **anda_skoa** from [www.qtcentre.org](http://www.qtcentre.org) which helped me testing on other platforms and generally for there help.
